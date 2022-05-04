@@ -1,0 +1,17 @@
+{
+  "general": {
+    "profile_icon": ".members-dropdown-component__members-icon.members-dropdown-component__members-icon--new-style",
+    "afk_modal": ".modal-container.modal-confirm_desktop.modal-confirm_desktop_with-icon.modal-container_rol"
+  },
+  "login": {
+    "username_input": "#txtUsername",
+    "password_input": "#txtPassword",
+    "button_submit": "button[type=submit]"
+  },
+  "live_roulette": {
+    "logged_btn": "body > div.modals-container > div.regulatory-last-login-modal.overlayWholePage > button",
+    "iframe_outside": "inline-games-page-component__game-frame",
+    "iframe_inside": "gamecontent",
+    "history_numbers": "roulette-game-area__history-line"
+  }
+}
