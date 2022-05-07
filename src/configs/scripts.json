@@ -1,5 +1,5 @@
 {
-    "login": "document.querySelector('${username_input}').value='...';document.querySelector('${password_input}').value='...;document.querySelector('${button_submit}').click();",
+    "login": "document.querySelector('${username_input}').value='...';document.querySelector('${password_input}').value='...';document.querySelector('${button_submit}').click();",
     "check_login":"document.querySelector('${profile_icon}') ? true : false",
     "get_history_elements":"document.querySelector('.roulette-game-area__history-line').innerText",
     "remind_later": "document.querySelector('#remindLater').click()"
